@@ -1,7 +1,0 @@
-Program Test
-Kamus
-    a : string
-Algoritma
-    a <- "TESTING"
-    output(a)
-Endprogram
